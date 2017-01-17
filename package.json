@@ -10,5 +10,17 @@
     "simple"
   ],
   "author": "Sinziana Gafitanu",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "httpdispatcher": "^2.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinzianag/vanilla-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sinzianag/vanilla-server/issues"
+  },
+  "homepage": "https://github.com/sinzianag/vanilla-server#readme"
 }
