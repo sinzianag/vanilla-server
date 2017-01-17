@@ -1,0 +1,14 @@
+{
+  "name": "vanilla",
+  "version": "1.0.0",
+  "description": "Simple Application",
+  "main": "vanilla_node.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "keywords": [
+    "simple"
+  ],
+  "author": "Sinziana Gafitanu",
+  "license": "ISC"
+}
